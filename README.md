@@ -1,5 +1,6 @@
 # PRODIGY_ML_01
-# House Price Prediction Project
+# House Price Prediction Model
+
 
 Welcome to the House Price Prediction project repository! In this project, I ventured into the fascinating realm of real estate data to develop models that predict house prices accurately. Predicting house prices is a critical task with applications ranging from assessing mortgage risks to making informed investment decisions.
 
